@@ -14,6 +14,8 @@ Adds a rebindable hotkey for every Info View overlay (Natural Resources, Healthc
 * Pressing the key of the info view that's already open closes it (can be turned off).
 * Optional "Close info view" key.
 * Uses the game's own key binding system, so conflicts show up in the options screen like any other binding.
+
+Note: This mod was coded with AI but the source code is open and available here: 
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />

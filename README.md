@@ -61,7 +61,3 @@ Built and tested against game version 1.6.4f1. If a game update breaks the build
 - `InfoviewPrefab.m_Group`, `m_Priority`, `isValid`
 - `ToolSystem.infoview` and `ToolSystem.activeInfoview`
 - `Usages.kOverlayUsage` and `Usages.kCancelableToolUsage`. If either is missing, remove it from the `SettingsUIKeyboardAction` lines.
-
-## Publishing (optional)
-
-`Properties/PublishConfiguration.xml` is set up for Paradox Mods. Add a `Properties/Thumbnail.png` before publishing.
