@@ -1,0 +1,37 @@
+# Build output (the toolchain also deploys the mod to your local Mods folder)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.pdb
+*.so
+*.bundle
+
+# Cities: Skylines II modding toolchain (Unity IL post-processor state)
+Library/
+Logs/
+
+# NuGet
+*.nupkg
+packages/
+
+# IDEs
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# Python (tools/gen_settings.py)
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

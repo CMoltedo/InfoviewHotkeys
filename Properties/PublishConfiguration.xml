@@ -1,0 +1,28 @@
+<Publish>
+	<!--Id must be set in order to update an existing mod. It is not required for publishing the mod for the first time-->
+	<ModId Value="" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Info View Hotkeys" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Bind a key to any Info View overlay." />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<LongDescription>
+Adds a rebindable hotkey for every Info View overlay (Natural Resources, Healthcare &amp; Deathcare, Happiness, and so on).
+
+* Options &gt; Info View Hotkeys &gt; Info views: set a key next to any base-game info view.
+* Other (DLC &amp; mods) tab: extra slots for info views added by DLC or other mods.
+* Pressing the key of the info view that's already open closes it (can be turned off).
+* Optional "Close info view" key.
+* Uses the game's own key binding system, so conflicts show up in the options screen like any other binding.
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="Code Mod" />
+	<!--Version of the mod-->
+	<ModVersion Value="1.0.0" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="1.*" />
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog>- First release.</ChangeLog>
+</Publish>
