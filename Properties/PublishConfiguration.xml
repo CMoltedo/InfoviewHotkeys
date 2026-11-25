@@ -15,7 +15,7 @@ Adds a rebindable hotkey for every Info View overlay (Natural Resources, Healthc
 * Optional "Close info view" key.
 * Uses the game's own key binding system, so conflicts show up in the options screen like any other binding.
 
-Note: This mod was coded with AI but the source code is open and available here: 
+Note: This mod was coded with AI but the source code is open and available here: https://github.com/CMoltedo/InfoviewHotkeys
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
