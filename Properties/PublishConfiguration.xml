@@ -1,6 +1,6 @@
 <Publish>
 	<!--Id must be set in order to update an existing mod. It is not required for publishing the mod for the first time-->
-	<ModId Value="" />
+	<ModId Value="169377" />
 	<!--Name of the mod to display to players-->
 	<DisplayName Value="Info View Hotkeys" />
 	<!--Short description of the mod-->
