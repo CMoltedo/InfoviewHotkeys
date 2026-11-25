@@ -19,6 +19,9 @@ Note: This mod was coded with AI but the source code is open and available here:
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
+	<Screenshot Value="Properties/Screenshots/InfoViewHotkeys1.jpg" />
+	<Screenshot Value="Properties/Screenshots/InfoViewHotkeys2.jpg" />
+	<Screenshot Value="Properties/Screenshots/InfoViewHotkeys3.jpg" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Version of the mod-->
